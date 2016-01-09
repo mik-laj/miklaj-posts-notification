@@ -1,0 +1,23 @@
+#miklaj_notification_form .field-group {
+}
+#miklaj_notification_form .field-group:after{
+	content: '';
+	clear: both;
+	display: table;
+}
+@media screen and (min-width: 800px){
+	#miklaj_notification_form .field-group-label{
+		width: 33%;
+		float: left;
+	}
+
+	#miklaj_notification_form .field-group-input{
+		width: 66%;
+		float: left;
+	}
+}
+
+#miklaj_notification_form .field-group-label-cat{
+	float: left;
+	width: 50%;
+}

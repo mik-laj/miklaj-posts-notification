@@ -1,0 +1,137 @@
+# Copyright (C) 2016 Mik-laj's Posts notifications
+# This file is distributed under the same license as the Mik-laj's Posts notifications package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mik-laj's Posts notifications 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/miklaj-posts-notification\n"
+"POT-Creation-Date: 2016-01-02 08:32+0100\n"
+"PO-Revision-Date: 2016-01-02 08:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
+"1 : 2);\n"
+
+#: inc/admin.php:23 inc/admin.php:50
+msgid "Notification list"
+msgstr "Lista powiadomień"
+
+#: inc/admin.php:24
+msgid "Notification"
+msgstr "Powiadomienia"
+
+#: inc/admin.php:38 inc/list.php:12
+msgid "Address"
+msgstr "Adres"
+
+#: inc/list.php:13
+msgid "Addresses"
+msgstr "Adresy"
+
+#: inc/list.php:59
+msgid "No address."
+msgstr "Brak adresów"
+
+#: inc/list.php:75 inc/list.php:147
+msgid "Delete"
+msgstr "Skasuj"
+
+#: inc/list.php:114
+msgid "%s from now"
+msgstr ""
+
+#: inc/list.php:116
+msgid "%s ago"
+msgstr "%s temu"
+
+#: inc/list.php:119
+msgid "Y/m/d"
+msgstr ""
+
+#: inc/list.php:128
+msgid "Name"
+msgstr "Nazwa"
+
+#: inc/list.php:129
+msgid "Email"
+msgstr ""
+
+#: inc/list.php:130 templates/miklaj-notification-form.php:102
+msgid "Notification frequency"
+msgstr "Częstotliwość powiadomień"
+
+#: inc/list.php:131
+msgid "Last send"
+msgstr "Ostatnio wysyłka"
+
+#: inc/list.php:132
+msgid "Taxonomy"
+msgstr "Taksonomia"
+
+#: inc/main.php:13
+msgid "Everyday"
+msgstr "Każdego dnia"
+
+#: inc/main.php:17
+msgid "Every week"
+msgstr "Każdego tygodnia"
+
+#: inc/main.php:21
+msgid "Every month"
+msgstr "Każdego miesiąca"
+
+#: inc/sender.php:7
+msgid "News from %s"
+msgstr "Wiadomości z %s"
+
+#: templates/miklaj-notification-form.php:11
+msgid "Name and surname"
+msgstr "Imię i nazwisko"
+
+#: templates/miklaj-notification-form.php:15
+msgid "John Smith"
+msgstr "Jan Kowalski"
+
+#: templates/miklaj-notification-form.php:20
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: templates/miklaj-notification-form.php:23
+msgid "email@example.com"
+msgstr "przykładowy@adres.pl"
+
+#: templates/miklaj-notification-form.php:28
+msgid "Categories"
+msgstr "Kategorię"
+
+#: templates/miklaj-notification-form.php:51
+msgid "Tags"
+msgstr "Tagi"
+
+#: templates/miklaj-notification-form.php:123
+msgid "I agree to the processing of personal data by you"
+msgstr "Wyrażam zgodę na przetwarzanie danych osobowych"
+
+#: templates/miklaj-notification-form.php:133
+msgid "Save"
+msgstr "Zapisz"
+
+#. Plugin Name of the plugin/theme
+msgid "Mik-laj's Posts notifications"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Allow to send notification to subscribed user."
+msgstr "Umożliwia wysłanie wiadomości do użytkowników, którzy zapisali się do subskrypcji."
+
+#. Author of the plugin/theme
+msgid "Kamil Bregula (mik-laj)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pilnujemy.info"
+msgstr ""
